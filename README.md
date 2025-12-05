@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Waduhekthecat
   I enjoy web design, music, and cats. 
-  Currently, I do contract marketing, SEO, custom web design, app development and music production. 
+  I do contract web development, app development and music production. 
+  More recently, I've been really into convolutional neural network training and implementation.
   I’m looking to collaborate on some app ideas
 - 📫 How to reach me: Email- Waduhekthecat@yahoo.com; Instagram - DeathToDarby; 
 

@@ -1,6 +1,9 @@
-- 👋 Hi, I’m @Waduhekthecat
-  I'm a musician and full stack developer interested in building cutting edge embedded audio/dsp systems. 
-- 📫 How to reach me: Email- Waduhekthecat@yahoo.com; Instagram - DeathToDarby; 
+- 👋 Hi, I’m @Waduhekthecat 
+Computer Science graduate, software engineer, and professional musician.
+
+Passionate about technology, software architecture, embedded systems, data structures integrated with AI-assisted tools, and creating products that bridge creativity and engineering.
+
+- 📫 How to reach me: Email- Waduhekthecat@yahoo.com; 
 
 <!---
 Waduhekthecat/Waduhekthecat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

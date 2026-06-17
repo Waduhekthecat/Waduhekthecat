@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Waduhekthecat 
+
 Computer Science graduate, software engineer, and professional musician.
 
 Passionate about technology, software architecture, embedded systems, data structures integrated with AI-assisted tools, and creating products that bridge creativity and engineering.
